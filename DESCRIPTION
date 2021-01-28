@@ -1,0 +1,16 @@
+Package: rd
+Type: Package
+Title: Read files from a directory
+Version: 0.1.0
+Author: Kittipos Sirivongrungson
+Maintainer: Kittipos Sirivongrungson <ki11ip0.s.a.s@gmail.com>
+Description: Most file reading function read a single file from file path but not from a directory. 
+    This package add capability to your favorite file reading function to read multiple files from a directory.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    rlang
+Suggests: 
+    snakecase
+RoxygenNote: 7.1.1
