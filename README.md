@@ -10,7 +10,8 @@
 
 ## Installation
 
-You can install rd from [GitHub](https://CRAN.R-project.org) with:
+You can install rd from [GitHub](https://github.com/Lightbridge-AI/rd)
+with:
 
 ``` r
 # install.packages("devtools")
