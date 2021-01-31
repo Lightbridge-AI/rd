@@ -30,7 +30,7 @@
 #'  # Read .xlsx file from a directory using `readxl::read_excel`.
 #'  ## Must specify regular expression to match file extension.
 #'
-#'    read.dir(readxl::read_excel, path = "path/to/dir" ,pattern = "\\.xlsx$")
+#'    rd(readxl::read_excel, path = "path/to/dir" ,pattern = "\\.xlsx$")
 #'
 #'  #  `.f` also accept formula interface.
 #'  # You can specify arguments of `.f` into the formula (similar to `purrr` package style).
